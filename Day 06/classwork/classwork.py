@@ -27,9 +27,3 @@ for i in range(5):
     total = number
 
     total = 25
-
-for i in range(0, 11): 
-    if i % 2 == 0:
-        print(f"{i} ლუწია")
-    else:
-        print(f"{i} კენტია")
