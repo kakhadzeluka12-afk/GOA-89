@@ -4,4 +4,4 @@ total = 0
 for i in numbers:
     if i == 1:
         total = total + 1
-        print(total)
+        print(total) += 821
